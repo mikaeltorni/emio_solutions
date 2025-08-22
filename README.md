@@ -1,1 +1,5 @@
-# emio_solutions
+Repo with my solutions for [emio](https://emio.io/)
+
+# SOLUTIONS
+
+[1. Beat the Clock: Time Management Thread solution (60%)](https://github.com/mikaeltorni/prompt_golf/blob/master/1_beat_the_clock_time_management_thread.md)
