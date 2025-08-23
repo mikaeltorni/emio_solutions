@@ -1,0 +1,1 @@
+Your task is to consider options for outing of our team of 12 coworkers. We have really diverse set of interests and are looking for a activity that encourages bonding without mandatory participation. Consider budget-friendly options within a city, that are not overly physical or alcohol-focused activities to ensure inclusivity for our group.
