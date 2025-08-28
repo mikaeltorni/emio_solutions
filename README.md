@@ -3,6 +3,7 @@ Repo with my solutions for [emio](https://emio.io/)
 # SOLUTIONS
 
 ## August 2025
+[August 28 2025. Page Turner: Summer Book Picks 📚 (100%)](https://github.com/mikaeltorni/emio_solutions/blob/master/august_2025/28082025_page_turner_summer_book_picks.md)
 
 [August 27 2025. Work Well: Home Office Ergonomics 🪑 (100%)](https://github.com/mikaeltorni/emio_solutions/blob/master/august_2025/27082025_work_well_home_office_ergonomics.md)
 
