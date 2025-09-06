@@ -2,6 +2,10 @@ Repo with my solutions for [emio](https://emio.io/)
 
 # SOLUTIONS
 
+## September 2025
+
+[September 6 2025. Roman Holiday: An Anniversary Adventure 🏛️ (100%)](https://github.com/mikaeltorni/emio_solutions/blob/master/september_2025/06092025_roman_holiday_an_anniversary_adventure.md)
+
 ## August 2025
 
 [August 29 2025. Welcome Aboard: New Client Email ✏️ (100%)](https://github.com/mikaeltorni/emio_solutions/blob/master/august_2025/29082025_welcome_aboard_new_client_email.md)
