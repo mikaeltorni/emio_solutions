@@ -4,6 +4,8 @@ Repo with my solutions for [emio](https://emio.io/)
 
 ## September 2025
 
+[September 9 2025. Virtual Vibes: Connect a Remote Team 💻 (100%)](https://github.com/mikaeltorni/emio_solutions/blob/master/september_2025/09092025_virtual_vibes_connect_a_remote_team.md)
+
 [September 6 2025. Roman Holiday: An Anniversary Adventure 🏛️ (100%)](https://github.com/mikaeltorni/emio_solutions/blob/master/september_2025/06092025_roman_holiday_an_anniversary_adventure.md)
 
 ## August 2025
